@@ -9,8 +9,8 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        Image(uiImage: UIImage(contentsOfFile: Bundle.main.path(forResource: "test", ofType: "heic")!)!)
+            .background(Color.black)
     }
 }
 

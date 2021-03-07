@@ -11,6 +11,7 @@
 		8A550D0725F51C6000C16252 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A550D0625F51C6000C16252 /* ContentView.swift */; };
 		8A550D0925F51C6100C16252 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A550D0825F51C6100C16252 /* Assets.xcassets */; };
 		8A550D0C25F51C6100C16252 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A550D0B25F51C6100C16252 /* Preview Assets.xcassets */; };
+		8A550D1525F51CCF00C16252 /* test.heic in Resources */ = {isa = PBXBuildFile; fileRef = 8A550D1425F51CCF00C16252 /* test.heic */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,8 @@
 		8A550D0825F51C6100C16252 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8A550D0B25F51C6100C16252 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8A550D0D25F51C6100C16252 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A550D1425F51CCF00C16252 /* test.heic */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.heic; sourceTree = "<group>"; };
+		8A550D1825F51D7C00C16252 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +39,7 @@
 		8A550CF825F51C6000C16252 = {
 			isa = PBXGroup;
 			children = (
+				8A550D1825F51D7C00C16252 /* README.md */,
 				8A550D0325F51C6000C16252 /* ios-imageview-heif-alpha-bug */,
 				8A550D0225F51C6000C16252 /* Products */,
 			);
@@ -54,6 +58,7 @@
 			children = (
 				8A550D0425F51C6000C16252 /* ios_imageview_heif_alpha_bugApp.swift */,
 				8A550D0625F51C6000C16252 /* ContentView.swift */,
+				8A550D1425F51CCF00C16252 /* test.heic */,
 				8A550D0825F51C6100C16252 /* Assets.xcassets */,
 				8A550D0D25F51C6100C16252 /* Info.plist */,
 				8A550D0A25F51C6100C16252 /* Preview Content */,
@@ -128,6 +133,7 @@
 			files = (
 				8A550D0C25F51C6100C16252 /* Preview Assets.xcassets in Resources */,
 				8A550D0925F51C6100C16252 /* Assets.xcassets in Resources */,
+				8A550D1525F51CCF00C16252 /* test.heic in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
