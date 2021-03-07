@@ -1,5 +1,5 @@
 # iOS-ImageView-HEIF-Alpha-Bug
-iOS has issue displaying HEIF images with alpha channel.
+iOS has issue displaying some HEIF images with alpha channel.
 
 # Expected result (on macOS)
 ![](screenshots/expected_macos.png)
